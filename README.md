@@ -1,1 +1,1 @@
-"# intro-nlp-news-sklearn-pytorch" 
+Intro to NLP with the NG News dataset from Pytorch.
